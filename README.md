@@ -1,5 +1,7 @@
 # This is KITE 2.0, Karoshi Interoperability Testing Engine (version 2.0)
 
+## Data Classification: Public
+
 The effortless way to test WebRTC compliance, prevent [Karoshi](https://en.wikipedia.org/wiki/Kar%C5%8Dshi) with __KITE!__
 
 Write automated interoperability test scripts in Java or Javascript and run them on any platforms. KITE supports:  
